@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Paltracker": {
+    "PalTracker": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
