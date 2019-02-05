@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -e
+set -v
 
 
 app_guid=`cf app $1 --guid`
